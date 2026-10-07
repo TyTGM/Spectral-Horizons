@@ -1,0 +1,63 @@
+{
+  "format_version": "1.26.20",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "spectrah:cherry_fog"
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density":  {
+            "0.000": 0.025, 
+            "0.194": 0.05,
+            "0.215": 0.75,
+            "0.237": 0.75,
+            "0.260": 0.75,
+            "0.282": 0.075,
+            "0.329": 0.075,
+            "0.500": 0.075, 
+            "0.694": 0.075,
+            "0.718": 0.075,
+            "0.740": 0.075,
+            "0.764": 0.075,
+            "0.785": 0.05,
+            "1.000": 0.025
+          },
+          "zero_density_height": 150, 
+          "max_density_height": 100, 
+          "uniform": false 
+        },
+        "weather": { 
+          "max_density": 0.1,
+          "uniform": true 
+        },
+        "water": { 
+          "max_density": 0.3,
+          "uniform": true 
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [ 
+            0.4,
+            0.05,
+            0.4
+          ],
+          "absorption": [ 
+            0.1,
+            0.1,
+            0.1
+          ]
+        }
+      },
+      "henyey_greenstein_g": {
+        "air": { 
+          "henyey_greenstein_g": 0.35
+        },
+        "water": { 
+          "henyey_greenstein_g": 0.3
+        }
+      }
+    }
+  }
+}

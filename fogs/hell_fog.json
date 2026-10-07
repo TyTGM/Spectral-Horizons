@@ -1,0 +1,45 @@
+{
+  "format_version": "1.26.20",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "spectrah:hell_fog"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 64,
+        "fog_end": 256,
+        "fog_color": "#E68A38",
+        "render_distance_type": "fixed"
+      }
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.05,
+          "zero_density_height": 125,
+          "max_density_height": 30,
+          "uniform": false
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [
+            0.5,
+            0.3,
+            0.1
+          ],
+          "absorption": [
+            0.1,
+            0.1,
+            0.1
+          ]
+        }
+      },
+      "henyey_greenstein_g": {
+        "air": {
+          "henyey_greenstein_g": 0.35
+        }
+      }
+    }
+  }
+}

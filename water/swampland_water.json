@@ -1,0 +1,34 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:water_settings": {
+        "description": {
+            "identifier": "spectrah:swamp_water"
+        },
+        "particle_concentrations": {
+            "chlorophyll": 0.25,
+            "suspended_sediment": 10,
+            "cdom": 0
+        },
+        "caustics": {
+            "enabled": true,
+            "texture": "water/caustics.png",
+            "frame_length": 0.075,
+            "scale": 0.5,
+            "power": 1.25
+        },
+        "waves": {
+            "enabled": true,
+            "frequency": 0.25,
+            "octaves": 16,
+            "depth": 0.4,
+            "sampleWidth": 0.05,
+            "speed": 2.75,
+            "pull": 0.5,
+            "mix": 0.25,
+            "frequency_scaling": 1.2,
+            "speed_scaling": 1.15,
+            "direction_increment": 345,
+            "shape": 2.5
+        }
+    }
+}

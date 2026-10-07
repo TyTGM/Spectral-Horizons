@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "spectrah:crimson_lighting"
+    },
+    "directional_lights": {
+        "sun": {
+          "illuminance": {
+            "0.0": 130
+          },
+          "color": {
+            "0.0": [0, 0, 0]
+          }
+        },
+        "moon": {
+          "illuminance": {
+            "0.0": 130
+            }
+          },
+          "color": {
+            "0.0": [0, 0, 0]
+      }
+    },
+    "emissive": {
+      "desaturation": 0
+    },
+    "ambient": {
+      "illuminance": 3,
+      "color": "#680000"
+    },
+    "sky": {
+      "intensity": 0.8
+    }
+  }
+}

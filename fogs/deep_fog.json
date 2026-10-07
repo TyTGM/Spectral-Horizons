@@ -1,0 +1,46 @@
+{
+  "format_version": "1.26.20",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "spectrah:deep_fog"
+    },
+    "volumetric": {
+      "density": {
+        "air": {
+          "max_density": 0.1, 
+          "uniform": true
+        },
+        "weather": { 
+          "max_density": 0.1,
+          "uniform": true 
+        },
+        "water": { 
+          "max_density": 0.3,
+          "uniform": true 
+        }
+      },
+      "media_coefficients": {
+        "air": {
+          "scattering": [ 
+            0.1,
+            0.2,
+            0.5
+          ],
+          "absorption": [ 
+            0.1,
+            0.1,
+            0.1
+          ]
+        }
+      },
+      "henyey_greenstein_g": {
+        "air": { 
+          "henyey_greenstein_g": 0.35
+        },
+        "water": { 
+          "henyey_greenstein_g": 0.3
+        }
+      }
+    }
+  }
+}
