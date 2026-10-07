@@ -56,13 +56,15 @@
 
 ##### I Reserve the Right to:
 
-\- Refuse and deny the ability for anyone to use, distribute, or modify Chromatic Visuals for any person or group. **(This action would be extremely rare and only during unusual circumstances)**
+\- Refuse and deny the ability for anyone to use, distribute, or modify Spectral Horizons for any person or group. **(This action would be extremely rare and only during unusual circumstances)**
 
 
 
-##### Original Download Links for Chromatic Visuals:
+##### Original Download Links for Spectral Horizons:
 
-\- https://www.curseforge.com/minecraft-bedrock/texture-packs/chromatic-visuals
+\- MCPEDL: https://mcpedl.com/spectral-horizons/
+
+\- Curseforge: https://www.curseforge.com/minecraft-bedrock/texture-packs/spectral-horizons
 
 
 
