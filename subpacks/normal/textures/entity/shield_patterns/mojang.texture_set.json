@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "mojang",
+    "metalness_emissive_roughness_subsurface": "mojang_mers",
+    "normal": "mojang_normal"
+  }
+}

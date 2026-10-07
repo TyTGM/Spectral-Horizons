@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "iron_baby",
+    "metalness_emissive_roughness": "iron_baby_mers",
+    "normal": "iron_baby_normal"
+  }
+}

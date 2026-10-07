@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "lead_rope",
+    "metalness_emissive_roughness_subsurface": "lead_rope_mers",
+    "normal": "lead_rope_normal"
+  }
+}

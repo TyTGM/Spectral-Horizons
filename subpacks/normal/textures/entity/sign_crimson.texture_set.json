@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "sign_crimson",
+    "metalness_emissive_roughness_subsurface": "sign_crimson_mers",
+    "normal": "sign_crimson_normal"
+  }
+}
