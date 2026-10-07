@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "deep_cold_ocean"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "spectrah:light_fog"
+      },
+      "minecraft:water_appearance": {
+        "surface_color": "#2080C9"
+      },
+      "minecraft:atmosphere_identifier": {
+        "atmosphere_identifier": "spectrah:cool_atmospherics"
+      },
+      "minecraft:color_grading_identifier": {
+        "color_grading_identifier": "spectrah:cool_color_grading"
+      },
+      "minecraft:lighting_identifier": {
+        "lighting_identifier": "spectrah:cool_lighting"
+      }
+    }
+  }
+}
