@@ -1,0 +1,18 @@
+{
+  "custom_overworld_bg_content@common.custom_bg_template": {
+    "texture": "custom_background/custom_overworld",
+    "layer": -1
+  },
+  "custom_nether_bg_content@common.custom_bg_template": {
+    "texture": "custom_background/custom_nether",
+    "layer": -1
+  },
+  "custom_theend_bg_content@common.custom_bg_template": {
+    "texture": "custom_background/custom_end",
+    "layer": -1
+  },
+  "custom_bg_template": {
+    "type": "image",
+    "keep_ratio": false
+  }
+}

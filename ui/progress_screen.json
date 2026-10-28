@@ -1,0 +1,11 @@
+{
+  "overworld_loading_progress_screen@world_loading_progress_screen": {
+    "$screen_bg_content": "common.custom_overworld_bg_content"
+  },
+  "nether_loading_progress_screen@world_loading_progress_screen": {
+    "$screen_bg_content": "common.custom_nether_bg_content"
+  },
+  "theend_loading_progress_screen@world_loading_progress_screen": {
+    "$screen_bg_content": "common.custom_theend_bg_content"
+  }
+}
