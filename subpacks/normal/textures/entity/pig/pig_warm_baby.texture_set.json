@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "pig_warm_baby",
+    "metalness_emissive_roughness_subsurface": "pig_warm_baby_mers",
+    "normal": "pig_warm_baby_normal"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "nautilus_armor_gold",
+    "metalness_emissive_roughness_subsurface": "nautilus_armor_gold_mers",
+    "normal": "nautilus_armor_gold_normal"
+  }
+}

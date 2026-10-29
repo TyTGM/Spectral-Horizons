@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "tabby_baby",
+    "metalness_emissive_roughness_subsurface": "tabby_baby_mers",
+    "normal": "tabby_baby_normal"
+  }
+}

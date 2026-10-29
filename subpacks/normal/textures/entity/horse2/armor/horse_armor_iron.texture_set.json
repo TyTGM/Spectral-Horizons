@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "horse_armor_iron",
+    "metalness_emissive_roughness_subsurface": "horse_armor_iron_mers",
+    "normal": "horse_armor_iron_normal"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "axolotl_blue",
+    "metalness_emissive_roughness_subsurface": "axolotl_blue_mers",
+    "normal": "axolotl_blue_normal"
+  }
+}

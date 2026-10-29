@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "wolf_tame",
+    "metalness_emissive_roughness_subsurface": "wolf_tame_mers",
+    "normal": "wolf_tame_normal"
+  }
+}

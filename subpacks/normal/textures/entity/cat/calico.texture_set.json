@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "calico",
+    "metalness_emissive_roughness_subsurface": "calico_mers",
+    "normal": "calico_normal"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "harness_pink",
+    "metalness_emissive_roughness_subsurface": "harness_pink_mers",
+    "normal": "harness_pink_normal"
+  }
+}

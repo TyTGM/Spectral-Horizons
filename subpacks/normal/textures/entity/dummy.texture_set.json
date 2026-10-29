@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "dummy",
+    "metalness_emissive_roughness_subsurface": "dummy_mers",
+    "normal": "dummy_normal"
+  }
+}

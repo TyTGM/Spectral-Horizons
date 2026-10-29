@@ -1,0 +1,8 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "salmon",
+    "metalness_emissive_roughness_subsurface": "salmon_mers",
+    "normal": "salmon_normal"
+  }
+}
