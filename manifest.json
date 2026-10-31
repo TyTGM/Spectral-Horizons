@@ -1,13 +1,13 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Spectral Horizons - v1.4.1",
-    "description": "Made by Ty TGM, A Colorful and Bright VV Pack",
+    "name": "Spectral Horizons - v1.5.0",
+    "description": "[PBR Rework 2.0] Made by Ty TGM, A Colorful and Bright VV Pack",
     "uuid": "7b43bb23-338a-413e-b385-37698c239ca1",
     "version": [
       1,
-      4,
-      1
+      5,
+      0
     ],
     "min_engine_version": [
       1,
@@ -22,8 +22,8 @@
       "uuid": "b0ca0693-4717-492c-989c-6b26ebcc1c74",
       "version": [
         1,
-        4,
-        1
+        5,
+        0
       ]
     }
   ],
