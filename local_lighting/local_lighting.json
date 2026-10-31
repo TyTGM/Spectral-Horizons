@@ -264,6 +264,10 @@
     "minecraft:medium_amethyst_bud": {
       "light_color": "#b520ff",
       "light_type": "point_light"
+    },
+    "minecraft:end_portal": {
+      "light_color": "#9a56ff",
+      "light_type": "point_light"
     }
   }
 }
